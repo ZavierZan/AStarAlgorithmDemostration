@@ -1,0 +1,12 @@
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\bin\Debug\MiniProjectAStar.exe.config
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\bin\Debug\MiniProjectAStar.exe
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\bin\Debug\MiniProjectAStar.pdb
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\bin\Debug\System.Numerics.Vectors.dll
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\bin\Debug\System.Numerics.Vectors.xml
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\obj\Debug\MiniProjectAStar.csproj.AssemblyReference.cache
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\obj\Debug\MiniProjectAStar.MainForm.resources
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\obj\Debug\MiniProjectAStar.csproj.GenerateResource.cache
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\obj\Debug\MiniProjectAStar.csproj.CoreCompileInputs.cache
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\obj\Debug\MiniProj.675A9F56.Up2Date
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\obj\Debug\MiniProjectAStar.exe
+D:\Unitec\Year 2 (1st Sem\Data Design and Algorithms\Assignment\MiniProject\MiniProjectAStar\MiniProjectAStar\obj\Debug\MiniProjectAStar.pdb

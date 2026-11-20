@@ -1,0 +1,130 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|d:\\unitec\\year2(1stsem\\data design and algorithms\\project\\miniproject\\miniprojectastar\\miniprojectastar\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|solutionrelative:miniprojectastar\\pathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\miniprojectastar\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|solutionrelative:miniprojectastar\\node.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\miniprojectastar\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|solutionrelative:miniprojectastar\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\miniprojectastar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|solutionrelative:miniprojectastar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\miniprojectastar\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|solutionrelative:miniprojectastar\\priorityqueue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\miniprojectastar\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3C464A47-E025-4C4F-8E06-B028805DACF1}|MiniProjectAStar\\MiniProjectAStar.csproj|solutionrelative:miniprojectastar\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 374,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\MainForm.cs",
+              "RelativeDocumentMoniker": "MiniProjectAStar\\MainForm.cs",
+              "ToolTip": "D:\\Unitec\\Year 2 (1st Sem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Year 2 (1st Sem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:27:29.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PriorityQueue.cs",
+              "DocumentMoniker": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\PriorityQueue.cs",
+              "RelativeDocumentMoniker": "MiniProjectAStar\\PriorityQueue.cs",
+              "ToolTip": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\PriorityQueue.cs",
+              "RelativeToolTip": "MiniProjectAStar\\PriorityQueue.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:10:27.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\Program.cs",
+              "RelativeDocumentMoniker": "MiniProjectAStar\\Program.cs",
+              "ToolTip": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\Program.cs",
+              "RelativeToolTip": "MiniProjectAStar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:09:09.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\MainForm.cs",
+              "RelativeDocumentMoniker": "MiniProjectAStar\\MainForm.cs",
+              "ToolTip": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\MainForm.cs",
+              "RelativeToolTip": "MiniProjectAStar\\MainForm.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAcwMkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:28:10.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PathFinding.cs",
+              "DocumentMoniker": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\PathFinding.cs",
+              "RelativeDocumentMoniker": "MiniProjectAStar\\PathFinding.cs",
+              "ToolTip": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\PathFinding.cs",
+              "RelativeToolTip": "MiniProjectAStar\\PathFinding.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwE0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:09:06.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Node.cs",
+              "DocumentMoniker": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\Node.cs",
+              "RelativeDocumentMoniker": "MiniProjectAStar\\Node.cs",
+              "ToolTip": "D:\\Unitec\\Year2(1stSem\\Data Design and Algorithms\\Project\\MiniProject\\MiniProjectAStar\\MiniProjectAStar\\Node.cs",
+              "RelativeToolTip": "MiniProjectAStar\\Node.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:09:03.378Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 122,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
